@@ -83,28 +83,9 @@ body{
 
 /* Footer Styles */
 .footer {
-    background-color: #333;
+    background-color: #64442c;
     color: #fff;
     padding: 20px 10px;
     text-align: center;
-    margin-top: 600px;
-}
-
-.footer a {
-    color: #ffdd57;
-    text-decoration: none;
-    font-weight: bold;
-}
-
-.footer a:hover {
-    text-decoration: underline;
-}
-
-.footer p {
-    margin-bottom: 10px;
-}
-
-.footer p.address {
-    margin-top: 20px;
-    color: #bbb;
+    margin-top: 650px;
 }
